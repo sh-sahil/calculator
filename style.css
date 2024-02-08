@@ -1,0 +1,45 @@
+body{
+    background-color: black;
+    font-family: Arial;
+    margin-left: 10px;
+}
+
+.display-calculation{
+    color: white;
+    font-size: 45px;
+    margin: 15px;
+    margin-left: 0px;;
+}
+
+.digits{
+    background-color: #333333;
+    color: white;
+    font-size: 25px;
+    border: none;
+    height: 60px;
+    width: 60px;
+    border-radius: 30px;
+    margin-right: 4px;
+}
+
+.operator{
+    background-color: rgb(254, 160, 10);
+    color: white;
+    font-size: 25px;
+    border: none;
+    height: 60px;
+    width: 60px;
+    border-radius: 30px;
+}
+
+.clear{
+    background-color: #333333;
+    color: white;
+    font-size: 18px;
+    border: none;
+    height: 60px;
+    width: 60px;
+    border-radius: 30px;
+    margin-right: 4px;
+}
+
